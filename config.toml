@@ -127,48 +127,6 @@ extensionmask = []
 #  weight = 4
 #  url = "en"
 
-[[Languages.en.menu.main]]
-name = "Home"
-pre = ""
-weight = 1
-identifier = "home"
-url = "/nexuslab/"
-
-[[Languages.en.menu.main]]
-name = "People"
-pre = ""
-weight = 2
-identifier = "people"
-url = "/nexuslab/people/"
-
-[[Languages.en.menu.main]]
-name = "News"
-pre = ""
-weight = 3
-identifier = "news"
-url = "/nexuslab/news/"
-
-[[Languages.en.menu.main]]
-name = "Projects"
-pre = ""
-weight = 4
-identifier = "projects"
-url = "/nexuslab/project/"
-
-[[Languages.en.menu.main]]
-name = "Publications"
-pre = ""
-weight = 5
-identifier = "publication"
-url = "/nexuslab/publication/"
-
-[[Languages.en.menu.main]]
-name = "Contact"
-pre = ""
-weight = 6
-identifier = "contact"
-url = "/nexuslab/contact/"
-
 [Languages]
 [Languages.en]
 languageCode = "en"

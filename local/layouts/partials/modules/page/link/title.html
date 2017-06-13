@@ -1,0 +1,2 @@
+<a href='{{ if and (isset .Params "link") (ne .Params.link "") }}{{ .Params.link }}{{ else }}{{ .Permalink }}{{ end }}' class = "link">{{ if .IsPage }}{{ if .Draft }}{{ .Site.Data.Strings.draft }} :: {{ end }}{{ end }}{{ .Title }}</a>
+{{ if and (isset .Params "document") (ne .Params.document "") }}<a href="{{ .Params.document }}" class="pdf"> [PDF]</a>{{ end }}

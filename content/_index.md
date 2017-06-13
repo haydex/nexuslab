@@ -7,6 +7,13 @@ topImage = "images/home/topimage.gif"
 bottomImage1 = "images/home/bottomimage1.jpg"
 bottomImage2 = "images/home/bottomimage2.jpg"
 bottomImage3 = "images/home/bottomimage3.jpg"
+[menu]
+     [menu.main]
+        name = "Home"
+        pre = ""
+        weight = 1
+        identifier = "home"
+        url = "/nexuslab/"
 
 +++
 {{% topsection %}}

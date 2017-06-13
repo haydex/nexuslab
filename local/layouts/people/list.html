@@ -1,0 +1,34 @@
+{{ partial "head" . }}
+<div id="main-content" class="container">
+  <header>
+    {{ partial "bloc/content/h1-title" . }}
+  </header>
+  <h1>{{ .Site.Params.FullTitle }}</h1></br>
+  <h4>{{ .Content }}</h4>
+  <h4>Faculty</h4>
+  <ul class="content">
+    {{ range $index, .Paginator.Pages }}
+    	{{ if eq .Type "faculty" }}
+			{{ .Render "list.li" }}
+		{{ end }}
+    {{ end }}
+  </ul>
+  <h4>Current Members</h4>
+  <ul class="content">
+    {{ range $index, .Paginator.Pages }}
+    	{{ if eq .Type "current" }}
+			{{ .Render "list.li" }}
+		{{ end }}
+    {{ end }}
+  </ul>
+  <h4>Past Members</h4>
+  <ul class="content">
+    {{ range $index, .Paginator.Pages }}
+    	{{ if eq .Type "past" }}
+			{{ .Render "list.li" }}
+		{{ end }}
+    {{ end }}
+  </ul>
+  {{ partial "bloc/content/pagination.html" . }}
+</div>
+{{ partial "foot" . }}
