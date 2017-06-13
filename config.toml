@@ -162,6 +162,13 @@ weight = 5
 identifier = "publication"
 url = "/nexuslab/publication/"
 
+[[Languages.en.menu.main]]
+name = "Contact"
+pre = ""
+weight = 5
+identifier = "contact"
+url = "/nexuslab/contact/"
+
 [Languages]
 [Languages.en]
 languageCode = "en"
