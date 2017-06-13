@@ -1,0 +1,16 @@
+{{ if .IsPage }}
+<article class="li">
+  
+    {{ if and (isset .Params "image") (ne .Params.image "") }}<a href="{{ .Permalink }}" class="clearfix"><div class="image" style="background-image: url({{ $.Site.BaseURL }}{{ with .Params.image }}{{ . }}{{ end }});"></div></a>{{ end }}
+    <div class="detail">
+      <time>{{ with .Site.Params.DateForm }}{{ $.Date.Format . }}{{ else }}{{ $.Date.Format "Mon, Jan 2, 2006" }}{{ end }}</time>
+      <div class="summary">
+	    {{ if .Description }}
+		  	{{ .Description | markdownify }}
+		{{ else }}
+    		{{ .Summary }}
+		{{ end }}
+  		</div>
+    </div>
+</article>
+{{ end }}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>People on NEXUSlab</title>
+    <link>https://haydex.github.io/nexuslab/people/</link>
+    <description>Recent content in People on NEXUSlab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>hayddex@gmail.com (haydex)</managingEditor>
+    <webMaster>hayddex@gmail.com (haydex)</webMaster>
+    <copyright>(c) 2017 Copyright NEXUSlab</copyright>
+    <lastBuildDate>Mon, 05 Dec 2016 14:41:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://haydex.github.io/nexuslab/people/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Junshuang Yang, M.Sc. Student</title>
+      <link>https://haydex.github.io/nexuslab/people/past/junshuang/</link>
+      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
+      <author>hayddex@gmail.com (haydex)</author>
+      <guid>https://haydex.github.io/nexuslab/people/past/junshuang/</guid>
+      <description>People People text in english.</description>
+    </item>
+    
+    <item>
+      <title>Mengjun Xie, Associate Professor</title>
+      <link>https://haydex.github.io/nexuslab/people/faculty/mengjun/</link>
+      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
+      <author>hayddex@gmail.com (haydex)</author>
+      <guid>https://haydex.github.io/nexuslab/people/faculty/mengjun/</guid>
+      <description>People People text in english.</description>
+    </item>
+    
+    <item>
+      <title>Ghouri Mohammad Saaduddin, M.Sc. Student</title>
+      <link>https://haydex.github.io/nexuslab/people/current/ghouri/</link>
+      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
+      <author>hayddex@gmail.com (haydex)</author>
+      <guid>https://haydex.github.io/nexuslab/people/current/ghouri/</guid>
+      <description>People People text in english.</description>
+    </item>
+    
+    <item>
+      <title>Mark, M.Sc. Student</title>
+      <link>https://haydex.github.io/nexuslab/people/current/mark/</link>
+      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
+      <author>hayddex@gmail.com (haydex)</author>
+      <guid>https://haydex.github.io/nexuslab/people/current/mark/</guid>
+      <description>People People text in english.</description>
+    </item>
+    
+    <item>
+      <title>Yanyan Li, Ph.D. Candidate</title>
+      <link>https://haydex.github.io/nexuslab/people/current/yanyan/</link>
+      <pubDate>Mon, 05 Dec 2016 14:41:00 +0100</pubDate>
+      <author>hayddex@gmail.com (haydex)</author>
+      <guid>https://haydex.github.io/nexuslab/people/current/yanyan/</guid>
+      <description>Associate Professor of Computer Science Director of Center of Academic Excellence in Cyber Defense Education
+University of Arkansas at Little Rock
+ motivated students (current or prospective) to work with me on security and system research. If you are interested, please stop by my office or drop me email.
+When you renew your Apple Music membership, access to millions of songs is just the beginning. Now you can also watch exclusive original shows — starting with Planet of the Apps, available today.</description>
+    </item>
+    
+  </channel>
+</rss>

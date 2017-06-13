@@ -1,0 +1,41 @@
+[home]
+name = "Home"
+pre = ""
+weight = 1
+identifier = "home"
+url = "/nexuslab/"
+
+[people]
+name = "People"
+pre = ""
+weight = 2
+identifier = "people"
+url = "/nexuslab/people/"
+
+[news]
+name = "News"
+pre = ""
+weight = 3
+identifier = "news"
+url = "/nexuslab/news/"
+
+[projects]
+name = "Projects"
+pre = ""
+weight = 4
+identifier = "projects"
+url = "/nexuslab/project/"
+
+[publications]
+name = "Publications"
+pre = ""
+weight = 5
+identifier = "publication"
+url = "/nexuslab/publication/"
+
+[contact]
+name = "Contact"
+pre = ""
+weight = 6
+identifier = "contact"
+url = "/nexuslab/contact/"
