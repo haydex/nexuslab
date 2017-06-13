@@ -1,4 +1,4 @@
-NEXUSlab  
+# NEXUSlab  
 This is a brief description of the structure and configuration for the NEXUSlab Hugo website, please note that the theme is totally separated from the customized files.
 
 
